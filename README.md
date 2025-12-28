@@ -34,7 +34,7 @@ This project delivers actionable insights into **hospital operations**, **patien
 ---
 
 ## 🎥 Live Demo
-![Demo](https://github.com/deepjit07/Hospital_Management_Dashboard/blob/main/Images/Home%20-%20Hospital_Dashboard-v1%20-%20Power%20BI%20-%20Google%20Chrome%202025-08-12%2021-12-05.mp4.gif)
+![Demo](https://github.com/shivamjana/Hospital_management_dashboard/blob/main/Home%20-%20Hospital_Dashboard-v1%20-%20Power%20BI%20-%20Google%20Chrome%202025-08-12%2021-12-05.mp4.gif)
 
 ---
 
