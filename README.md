@@ -20,7 +20,7 @@ This project delivers actionable insights into **hospital operations**, **patien
 
 | Home | Overview |
 |------|----------|
-| ![Home](https://github.com/deepjit07/Hospital_Management_Dashboard/blob/main/Images/Screenshot%20(73).png) | ![Overview](https://github.com/deepjit07/Hospital_Management_Dashboard/blob/main/Images/Screenshot%20(74).png) |
+| ![Home](https://github.com/shivamjana/Hospital_management_dashboard/blob/main/Screenshot%20(73).png) | ![Overview](https://github.com/deepjit07/Hospital_Management_Dashboard/blob/main/Images/Screenshot%20(74).png) |
 
 | Patient | Doctor |
 |---------|--------|
