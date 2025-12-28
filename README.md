@@ -28,7 +28,7 @@ This project delivers actionable insights into **hospital operations**, **patien
 
 | Hospital | Finance |
 |----------|---------|
-| ![Hospital](https://github.com/shivamjana/Hospital_management_dashboard/blob/main/Screenshot%20(77).png) | ![Finance](https://github.com/deepjit07/Hospital_Management_Dashboard/blob/main/Images/Screenshot%20(78).png) |
+| ![Hospital](https://github.com/shivamjana/Hospital_management_dashboard/blob/main/Screenshot%20(77).png) | ![Finance](https://github.com/shivamjana/Hospital_management_dashboard/blob/main/Screenshot%20(78).png) |
 
 
 ---
